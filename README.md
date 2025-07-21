@@ -8,9 +8,6 @@ An Arduino-based system to detect unauthorized access using motion and door sens
 - Sensors (IR, door sensors)
 - Buzzer & LED
 
-## 📸 Screenshots:
-(You can add screenshots by dragging images into GitHub later)
-
 ## ▶️ How to Run:
 1. Connect Arduino circuit as per schematic
 2. Upload code via Arduino IDE
